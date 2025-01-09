@@ -1,6 +1,9 @@
 # 代理补充列表
 DOMAIN-SUFFIX,ipleak.net
 
+# MyList
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
 
 
 # 域名后缀匹配
