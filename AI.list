@@ -7,9 +7,9 @@ DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,gemini
 
 #US MOBILE
-DOMAIN-SUFFIX,ultramobile.com
-DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-SUFFIX,t-mobile.com
+#DOMAIN-SUFFIX,ultramobile.com
+#DOMAIN-SUFFIX,launchdarkly.com
+#DOMAIN-SUFFIX,t-mobile.com
 
 
 # 域名后缀匹配
