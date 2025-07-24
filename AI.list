@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 
 DOMAIN-SUFFIX,gemini.google.com
-#DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,googleapis.com
 
 # AI
 DOMAIN-KEYWORD,anthropic
@@ -46,7 +46,7 @@ DOMAIN,bard.google.com
 DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,gemini.google.com
-#DOMAIN,generativelanguage.googleapis.com
+# DOMAIN,generativelanguage.googleapis.com
 DOMAIN,sydney.bing.com
 DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,anthropic.com
