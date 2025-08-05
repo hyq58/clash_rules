@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,gemini
 #DOMAIN-SUFFIX,ultramobile.com
 #DOMAIN-SUFFIX,launchdarkly.com
 #DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,googleusercontent.com
 
 
 # 域名后缀匹配
