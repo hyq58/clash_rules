@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,claude.ai.com
 
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,generativeai.google.com  
 
 # AI
 DOMAIN-KEYWORD,anthropic
